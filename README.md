@@ -25,3 +25,22 @@ In the last couple of years I've been mainly working with C#, MATLAB and SQL Ser
 I'm currently enrolled in a web development udemy course . Besides that, I'm taking the wonderful [Giberth Strang's linear algebra classes from MIT OpenCourseWare](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1).
 Finally, I would like to pursue machine learning, generative graphics, bot programming and robotics 🤖 in the future.
 
+### Código Hola mundo
+```C#
+//Hola Mundo, programa escrito en una computadora de Virgina, US de manera remota desde Tijuana, BC México
+using System;
+
+namespace holaMundo
+{
+        public class Program
+        {
+                static void Main(string[] args)
+                {
+                        Console.WriteLine("Hola Mundo!!!");
+                        Console.ReadKey();
+                }
+        }
+
+}
+```
+

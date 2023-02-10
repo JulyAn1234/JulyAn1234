@@ -1,4 +1,3 @@
-###Hola a todos!
+### Hola a todos!
 
-Mi nombre es Julian Hernandez
-Me gusta la programación
+Mi nombre es Julian Hernandez y me gusta la programación.

@@ -1,6 +1,6 @@
 # Hello everybody!👋👋✨
 
-My name is Julian Jara and I'm currently studying computer systems engineering at [TecNM Tijuana](https://www.tijuana.tecnm.mx/)💻📱👀
+### My name is Julian Jara and I'm currently studying computer systems engineering at [TecNM Tijuana](https://www.tijuana.tecnm.mx/)💻📱👀
 
 ## My school schedule:
 |    Hour    |         Monday        |       Tuesday        |       Wenesday       |       Thursday       |        Friday        |

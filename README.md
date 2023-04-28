@@ -11,15 +11,15 @@ In the last couple of years I've been mainly working with C#, MATLAB and SQL Ser
 
 ## What am I learning?
 
-### My school schedule 📚📓
-|    Hour    |         Monday        |       Tuesday        |       Wenesday       |       Thursday       |        Friday        |
-|------------|-----------------------|----------------------|----------------------|----------------------|----------------------|
-|    1:2pm   | Software engineering  | Software engineering | Software engineering | Software engineering | Software engineering |
-|    2:3pm   | Computer networks     | Computer networks    | Computer networks    | Computer networks    | Computer networks    |
-|    3:4pm   | SOs Workshop          | SOs Workshop         | SOs Workshop         | SOs Workshop         |                      |
-|    4:5pm   | Interface's languages | Interface languages  | Interface languages  | Interface languages  |                      |
-|    5:6pm   | Automata theory       | Automata theory      | Automata theory      | Automata theory      | Automata theory      |
-|    6:7pm   | Database management   | Database management  | Database management  | Database management  | Database management  |
+### University courses 📚📓
+
+I'm taking six classes this semester:
+1. Software Engineering.
+2. Computer Networks.
+3. Operating Systems Workshop.
+4. Interface Languages.
+5. Languages and automata I.
+6. Database Management.
 
 ### Side learning
 I'm currently enrolled in a web development udemy course . Besides that, I'm taking the wonderful [Giberth Strang's linear algebra classes from MIT OpenCourseWare](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1).

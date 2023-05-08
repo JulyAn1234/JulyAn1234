@@ -5,10 +5,6 @@ My name is Julian Jara and I'm currently studying my sixth computer systems engi
 ## Some of my projects and experience 🐱‍💻
 In the last couple of years I've been mainly working with C#, MATLAB and SQL Server, even though I'm familiar with Python 🐍, C, C++, MySQL, HTML, CSS, Javascript and Java. The projects I've done are mostly desktop applications for windows, like CRUD systems. Nevertheless, the last two semesters I experimented with computer graphics, numerical methods and simple simulation, I even had the oportunity to participate in a Hackathon! 🎉.   
 
-<p align="center">
-  <img src="VMS.png" width=60% height=60%>
-</p>
-
 ## What am I learning?
 
 ### University courses 📚📓
